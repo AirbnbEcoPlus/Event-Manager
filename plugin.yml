@@ -1,0 +1,5 @@
+name: Event Manager
+version: 1.0
+author: Krfcm2
+main: fr.endide.event.main
+commands:
