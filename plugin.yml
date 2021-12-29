@@ -2,4 +2,8 @@ name: Event Manager
 version: 1.0
 author: Krfcm2
 main: fr.endide.event.main
+depend: [UhcCore]
 commands:
+  eventmanager:
+    description: Permet de changer le mode de jeu
+    permission: event.admin
